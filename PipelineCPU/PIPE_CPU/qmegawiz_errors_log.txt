@@ -1,0 +1,21 @@
+
+
+F:/Computer composition/experiment/PIPE_CPU/source/lpm_ram_dq_dram.v
+
+Jun 10 02PM:54:15>: Megafunction LPM_RAM_DQ is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+F:/Computer composition/experiment/PIPE_CPU/source/lpm_rom_irom.v
+
+Jun 12 10PM:30:34>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+F:/Computer composition/experiment/PIPE_CPU/source/lpm_rom_irom.v
+
+Jun 12 10PM:30:34>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted
+
+F:/Computer composition/experiment/PIPE_CPU/source/lpm_rom_irom.v
+
+Jun 12 10PM:30:37>: Megafunction LPM_ROM is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted

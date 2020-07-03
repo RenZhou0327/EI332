@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Computer composition\experiment\Hamming\simulation\qsim
+vsc_io_computer
+Z1 IJ?zDDg_;zPh2XLn3n3`Li3
+Z2 V2UbIL3ZkkKPco7h06<XU?0
+Z3 dF:\Computer composition\experiment\Hamming\simulation\qsim
+Z4 w1590483591
+Z5 8sc_io_computer.vo
+Z6 Fsc_io_computer.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|sc_io_computer.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 Kc3TAzg9l>@DXnU:>1=lF2
+!s85 0
+Z11 !s108 1590483592.338000
+Z12 !s107 sc_io_computer.vo|
+!s101 -O0
+vsc_io_computer_vlg_check_tst
+!i10b 1
+Z13 !s100 N][<@2[k_LPc_gDCjL_Og3
+Z14 I0F9SQ8k?8lAWnWKNS]5IK2
+Z15 V>?4V^M;z96H4O3E>eFJ@m3
+R3
+Z16 w1590483590
+Z17 8sc_io_computer.vt
+Z18 Fsc_io_computer.vt
+L0 79
+R7
+r1
+!s85 0
+31
+Z19 !s108 1590483593.078000
+Z20 !s107 sc_io_computer.vt|
+Z21 !s90 -work|work|sc_io_computer.vt|
+!s101 -O0
+R9
+vsc_io_computer_vlg_sample_tst
+!i10b 1
+Z22 !s100 XBinKDUoS5cT26=][YJSC1
+Z23 IDIK6leLW64Hn^C;_^`iPB1
+Z24 VM^NCU>Xj5JE3iK^IhR8l82
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vsc_io_computer_vlg_vec_tst
+!i10b 1
+Z25 !s100 e4cSI>2DIH3UblZ57eXoM2
+Z26 IGe`285FM5U`_eAHnX7`G@1
+Z27 VMINb6No6T@0XocS?XioLo0
+R3
+R16
+R17
+R18
+Z28 L0 951
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9

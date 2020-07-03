@@ -1,0 +1,5 @@
+module in_port(in1, in2, in3, in4, in5, res);
+	input in1, in2, in3, in4, in5;
+	output [31:0] res;
+	assign res = {{27{1'b0}}, in5, in4, in3, in2, in1};
+endmodule

@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Computer composition\experiment\Single_Cycle_CPU\simulation\modelsim
+vsc_cu
+!i10b 1
+!s100 CcI0CBBQAeG6UT2<eXRVU3
+IV:DNfU[inoLhb3kRCm1WQ0
+VAlN72Pg@l_c4ao;V0co7c3
+Z1 dF:\Computer composition\experiment\Single_Cycle_CPU\simulation\modelsim
+w1588390280
+8F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_cu.v
+FF:/Computer composition/experiment/Single_Cycle_CPU/source/sc_cu.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1589013200.198000
+!s107 F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_cu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Computer composition/experiment/Single_Cycle_CPU/source|F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_cu.v|
+!s101 -O0
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work {+incdir+F:/Computer composition/experiment/Single_Cycle_CPU/source} -O0
+vsc_datamem
+IB@9[D0e[j2?H:;SLmP=WX3
+Vhmdc>^=5cMSCc>e^C5BHk3
+R1
+w1305039300
+8F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_datamem.v
+FF:/Computer composition/experiment/Single_Cycle_CPU/source/sc_datamem.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ]L_9]?]C:1FHEX9V9Sh8H3
+!s85 0
+!s108 1589013200.100000
+!s107 F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_datamem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Computer composition/experiment/Single_Cycle_CPU/source|F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_datamem.v|
+!s101 -O0
+vsc_instmem
+I7FJ5FN6nTA38LU;@C4LcC2
+VkU`UIUgSeP=c3TJLN64XO2
+R1
+w1305084524
+8F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_instmen.v
+FF:/Computer composition/experiment/Single_Cycle_CPU/source/sc_instmen.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3EbY0SJ[@aAZVPUENLCTe2
+!s85 0
+!s108 1589013199.910000
+!s107 F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_instmen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/Computer composition/experiment/Single_Cycle_CPU/source|F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_instmen.v|
+!s101 -O0

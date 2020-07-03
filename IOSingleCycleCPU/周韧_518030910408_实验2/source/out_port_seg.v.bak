@@ -1,0 +1,6 @@
+module out_port_seg(in, out0, out1);
+	input [7:0] in;
+	output [6:0] out0, out1;
+	sevenseg ss0(in[3:0], out0);
+	sevenseg ss1(in[7:4], out1);
+endmodule

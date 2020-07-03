@@ -1,0 +1,41 @@
+# Reading D:/altera/13.0/modelsim_ase/tcl/vsim/pref.tcl 
+# do sc_computer_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying D:\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied D:\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+F:/Computer\ composition/experiment/Single_Cycle_CPU/source {F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_instmen.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sc_instmem
+# 
+# Top level modules:
+# 	sc_instmem
+# vlog -vlog01compat -work work +incdir+F:/Computer\ composition/experiment/Single_Cycle_CPU/source {F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_datamem.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sc_datamem
+# 
+# Top level modules:
+# 	sc_datamem
+# vlog -vlog01compat -work work +incdir+F:/Computer\ composition/experiment/Single_Cycle_CPU/source {F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_cu.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sc_cu
+# 
+# Top level modules:
+# 	sc_cu
+# vlog -vlog01compat -work work +incdir+F:/Computer\ composition/experiment/Single_Cycle_CPU/source {F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_cpu.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sc_cpu
+# ** Error: F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_cpu.v(13): (vlog-2730) Undefined variable: 'imm'.
+# 
+# ** Error: F:/Computer composition/experiment/Single_Cycle_CPU/source/sc_cpu.v(15): 'imm' already declared in this scope (sc_cpu).
+# ** Error: D:/altera/13.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./sc_computer_run_msim_rtl_verilog.do line 11
+# D:/altera/13.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -vlog01compat -work work +incdir+F:/Computer\ composition/experiment/Single_Cycle_CPU/source {F:/Computer composition/experiment/Single_Cycle_CPU..."

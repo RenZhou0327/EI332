@@ -1,0 +1,17 @@
+module clock_and_mem_clock(reset, clk, clock_out);
+	input reset, clk;
+	output clock_out;
+	reg clock_out;
+	
+	initial
+	begin
+		clock_out = 0;
+	end
+	
+	always@(posedge clk)
+	begin
+		if(~reset)
+			clock_out <= 0;
+		clock_out <= ~clock_out;
+	end
+endmodule	
